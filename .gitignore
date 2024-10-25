@@ -1,0 +1,7 @@
+/.config
+/bin
+/obj
+/Content/bin
+/Content/obj
+.editorconfig
+world.dat
